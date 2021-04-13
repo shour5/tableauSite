@@ -15,6 +15,11 @@ h1 {
     text-align: center;
 }
 
+.table {
+    display: table;
+    margin: 0 auto;
+}
+
 .l_ul li a{
     display:block;
 }
@@ -28,4 +33,13 @@ h1 {
     text-align: center;
     font-size: large;
     background-color: #f1ddf1;
+}
+
+.tr {
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
 }
